@@ -10,4 +10,4 @@
 
 - ❗ I am open to opportunities to which my profile is a fit: Python developer, business intelligence analyst, data analyst or strategy analyst.
 
-- 💬 Feel free to reach out by sending a connection request and a dm on [LinkedIn](https://www.linkedin.com/in/alexonati/).
+- 💬 Feel free to reach out by sending a connection request and a dm on [LinkedIn](https://www.linkedin.com/in/alexonati/) and don't forget to checkout my [portofolio](https://tzunu.pythonanywhere.com/).
