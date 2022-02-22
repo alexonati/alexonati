@@ -6,6 +6,4 @@
 
 - 📣 I am also good at execution, a performing team member, with a strategical approach and technical/functional skills. For more details check my entire profile.
 
-- ↗️ I’m currently learning and improving my Python 🐍 knowledge.
-
 - 💬 Feel free to reach out by sending a connection request and a dm on [LinkedIn](https://www.linkedin.com/in/alexonati/) and don't forget to checkout my [portofolio (built using Flask)](https://tzunu.pythonanywhere.com/).
