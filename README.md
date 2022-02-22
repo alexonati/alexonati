@@ -8,6 +8,4 @@
 
 - ↗️ I’m currently learning and improving my Python 🐍 knowledge.
 
-- ❗ I am open to opportunities to which my profile is a fit: Python developer, business intelligence analyst, data analyst or strategy analyst.
-
 - 💬 Feel free to reach out by sending a connection request and a dm on [LinkedIn](https://www.linkedin.com/in/alexonati/) and don't forget to checkout my [portofolio (built using Flask)](https://tzunu.pythonanywhere.com/).
